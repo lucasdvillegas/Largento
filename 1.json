@@ -506,11 +506,11 @@
       {
         "team": "NoLegion",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/no_legion.png",
-        "games": 2,
-        "w": null,
+        "games": 3,
+        "w": 1,
         "l": 1,
         "d": 1,
-        "puntos": 1
+        "puntos": 3
       },
       {
         "team": "Anxiety",
@@ -542,9 +542,9 @@
       {
         "team": "Papu y Los Papulines",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/papu_y_los_papulines.png",
-        "games": 1,
+        "games": 2,
         "w": null,
-        "l": 1,
+        "l": 2,
         "d": null,
         "puntos": 0
       }
@@ -571,11 +571,11 @@
       {
         "team": "Cinder Wolves",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/cinder_wolves.png",
-        "games": 2,
+        "games": 3,
         "w": null,
         "l": 1,
-        "d": 1,
-        "puntos": 1
+        "d": 2,
+        "puntos": 2
       },
       {
         "team": "The Rats",
@@ -607,11 +607,11 @@
       {
         "team": "The Mystery Machine",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/the_mystery_machine.png",
-        "games": 2,
+        "games": 3,
         "w": null,
         "l": 1,
-        "d": 1,
-        "puntos": 1
+        "d": 2,
+        "puntos": 2
       }
     ]
   ],
