@@ -553,20 +553,20 @@
       {
         "team": "Epicenter",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/epicenter.png",
-        "games": 2,
+        "games": 3,
         "w": 1,
         "l": null,
-        "d": 1,
-        "puntos": 3
+        "d": 2,
+        "puntos": 4
       },
       {
         "team": "Los Atiende Boludos",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/los_atiende_boludos.png",
-        "games": 2,
+        "games": 3,
         "w": 1,
         "l": null,
-        "d": 1,
-        "puntos": 3
+        "d": 2,
+        "puntos": 4
       },
       {
         "team": "Cinder Wolves",
@@ -784,11 +784,11 @@
       [
         {
           "team": "Los Atiende Boludos",
-          "resultado": null
+          "resultado": 1
         },
         {
           "team": "Epicenter",
-          "resultado": null
+          "resultado": 1
         }
       ],
       [
