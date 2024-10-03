@@ -103,7 +103,7 @@
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
-          "name": "tryhard",
+          "name": "mabe",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         }
       ]
@@ -428,27 +428,27 @@
         },
         {
           "name": "Pignal",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "NikoGOD",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
         },
         {
-          "name": "Ruloxd",
+          "name": "Siarko",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+        },
+        {
+          "name": "El Tucumano",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         },
         {
-          "name": "RUL",
+          "name": "DirtyBoy-",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+        },
+        {
+          "name": "Parker",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/legend_medal.png"
-        },
-        {
-          "name": "Mr Goza",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
-        },
-        {
-          "name": "LaPluma",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
-        },
-        {
-          "name": "Thunder",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         }
       ]
     },
@@ -478,6 +478,10 @@
         },
         {
           "name": "depressive",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "Waster",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         }
       ]
