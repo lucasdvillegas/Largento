@@ -566,9 +566,9 @@
       {
         "team": "Los Atiende Boludos",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/los_atiende_boludos.png",
-        "games": 3,
+        "games": 4,
         "w": 1,
-        "l": null,
+        "l": 1,
         "d": 2,
         "puntos": 4
       },
@@ -602,11 +602,11 @@
       {
         "team": "Aldea Gaming",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/aldea_gaming.png",
-        "games": 2,
-        "w": 1,
+        "games": 4,
+        "w": 2,
         "l": null,
         "d": 1,
-        "puntos": 3
+        "puntos": 5
       },
       {
         "team": "The Mystery Machine",
@@ -840,11 +840,11 @@
       [
         {
           "team": "Aldea Gaming",
-          "resultado": null
+          "resultado": 2
         },
         {
           "team": "Los Atiende Boludos",
-          "resultado": null
+          "resultado": 0
         }
       ],
       [
