@@ -492,20 +492,20 @@
       {
         "team": "Gatitos Techeros Gaming",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/gatitos_techeros_gaming.png",
-        "games": 2,
-        "w": 1,
+        "games": 4,
+        "w": 2,
         "l": null,
-        "d": 1,
-        "puntos": 3
+        "d": 2,
+        "puntos": 6
       },
       {
         "team": "Hydra E-sport",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/hydra_esport.png",
-        "games": 3,
+        "games": 4,
         "w": 1,
         "l": 1,
-        "d": 1,
-        "puntos": 3
+        "d": 2,
+        "puntos": 4
       },
       {
         "team": "NoLegion",
@@ -519,11 +519,11 @@
       {
         "team": "Anxiety",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/anxiety.png",
-        "games": 2,
-        "w": 1,
+        "games": 3,
+        "w": 2,
         "l": null,
         "d": 1,
-        "puntos": 3
+        "puntos": 5
       },
       {
         "team": "BRANCA TEAM",
@@ -537,18 +537,18 @@
       {
         "team": "Neennyz3000",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/neennyz3000.png",
-        "games": 2,
+        "games": 3,
         "w": null,
-        "l": 2,
+        "l": 3,
         "d": null,
         "puntos": 0
       },
       {
         "team": "Papu y Los Papulines",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/papu_y_los_papulines.png",
-        "games": 2,
+        "games": 3,
         "w": null,
-        "l": 2,
+        "l": 3,
         "d": null,
         "puntos": 0
       }
@@ -557,11 +557,11 @@
       {
         "team": "Epicenter",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/epicenter.png",
-        "games": 3,
-        "w": 1,
+        "games": 4,
+        "w": 2,
         "l": null,
         "d": 2,
-        "puntos": 4
+        "puntos": 6
       },
       {
         "team": "Los Atiende Boludos",
@@ -584,11 +584,11 @@
       {
         "team": "The Rats",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/the_rats_logo.png",
-        "games": 2,
-        "w": null,
+        "games": 3,
+        "w": 1,
         "l": 1,
         "d": 1,
-        "puntos": 1
+        "puntos": 3
       },
       {
         "team": "Take the Rapier",
@@ -604,16 +604,16 @@
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/aldea_gaming.png",
         "games": 4,
         "w": 2,
-        "l": null,
+        "l": 1,
         "d": 1,
         "puntos": 5
       },
       {
         "team": "The Mystery Machine",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/the_mystery_machine.png",
-        "games": 3,
+        "games": 4,
         "w": null,
-        "l": 1,
+        "l": 2,
         "d": 2,
         "puntos": 2
       }
@@ -748,21 +748,21 @@
       [
         {
           "team": "Anxiety",
-          "resultado": null
+          "resultado": 2
         },
         {
           "team": "Nennyz3000",
-          "resultado": null
+          "resultado": 0
         }
       ],
       [
         {
           "team": "Hydra E-Sport",
-          "resultado": null
+          "resultado": 1
         },
         {
           "team": "Gatitos Techeros Gaming",
-          "resultado": null
+          "resultado": 1
         }
       ],
       [
@@ -798,11 +798,11 @@
       [
         {
           "team": "The Rats",
-          "resultado": null
+          "resultado": 2
         },
         {
           "team": "Aldea Gaming",
-          "resultado": null
+          "resultado": 0
         }
       ]
     ],
@@ -820,11 +820,11 @@
       [
         {
           "team": "Gatitos Techeros Gaming",
-          "resultado": null
+          "resultado": 2
         },
         {
           "team": "Papu y Los Papulines",
-          "resultado": null
+          "resultado": 0
         }
       ],
       [
@@ -850,11 +850,11 @@
       [
         {
           "team": "Epicenter",
-          "resultado": null
+          "resultado": 2
         },
         {
           "team": "The Mystery Machine",
-          "resultado": null
+          "resultado": 0
         }
       ],
       [
