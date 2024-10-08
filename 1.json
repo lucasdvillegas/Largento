@@ -501,11 +501,11 @@
       {
         "team": "Hydra E-sport",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/hydra_esport.png",
-        "games": 6,
+        "games": 5,
         "w": 2,
         "l": 1,
         "d": 2,
-        "puntos": 5
+        "puntos": 6
       },
       {
         "team": "NoLegion",
