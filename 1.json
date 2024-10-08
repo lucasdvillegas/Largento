@@ -493,64 +493,64 @@
         "team": "Gatitos Techeros Gaming",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/gatitos_techeros_gaming.png",
         "games": 4,
+        "w": 3,
+        "l": null,
+        "d": 1,
+        "puntos": 7
+      },
+      {
+        "team": "Hydra E-sport",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/hydra_esport.png",
+        "games": 5,
+        "w": 2,
+        "l": 1,
+        "d": 2,
+        "puntos": 5
+      },
+      {
+        "team": "NoLegion",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/no_legion.png",
+        "games": 4,
         "w": 2,
         "l": null,
         "d": 2,
         "puntos": 6
       },
       {
-        "team": "Hydra E-sport",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/hydra_esport.png",
-        "games": 4,
-        "w": 1,
-        "l": 1,
-        "d": 2,
-        "puntos": 4
-      },
-      {
-        "team": "NoLegion",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/no_legion.png",
-        "games": 4,
-        "w": 1,
-        "l": 1,
-        "d": 2,
-        "puntos": 4
-      },
-      {
         "team": "Anxiety",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/anxiety.png",
-        "games": 3,
-        "w": 2,
-        "l": null,
-        "d": 1,
-        "puntos": 5
+        "games": 6,
+        "w": null,
+        "l": 6,
+        "d": null,
+        "puntos": 0
       },
       {
         "team": "BRANCA TEAM",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/branca_team.png",
-        "games": 3,
-        "w": 2,
+        "games": 4,
+        "w": 3,
         "l": null,
         "d": 1,
-        "puntos": 5
+        "puntos": 7
       },
       {
         "team": "Neennyz3000",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/neennyz3000.png",
         "games": 3,
-        "w": null,
-        "l": 3,
+        "w": 1,
+        "l": 2,
         "d": null,
-        "puntos": 0
+        "puntos": 2
       },
       {
         "team": "Papu y Los Papulines",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/papu_y_los_papulines.png",
-        "games": 3,
-        "w": null,
+        "games": 4,
+        "w": 1,
         "l": 3,
         "d": null,
-        "puntos": 0
+        "puntos": 2
       }
     ],
     [
@@ -624,11 +624,11 @@
       [
         {
           "team": "Anxiety",
-          "resultado": 2
+          "resultado": 0
         },
         {
           "team": "NoLegion",
-          "resultado": 0
+          "resultado": 2
         }
       ],
       [
@@ -686,11 +686,11 @@
       [
         {
           "team": "Gatitos Techeros Gaming",
-          "resultado": 1
+          "resultado": 2
         },
         {
           "team": "Anxiety",
-          "resultado": 1
+          "resultado": 0
         }
       ],
       [
@@ -748,11 +748,11 @@
       [
         {
           "team": "Anxiety",
-          "resultado": 2
+          "resultado": 0
         },
         {
           "team": "Nennyz3000",
-          "resultado": 0
+          "resultado": 2
         }
       ],
       [
@@ -882,11 +882,11 @@
       [
         {
           "team": "Hydra E-sport",
-          "resultado": null
+          "resultado": 2
         },
         {
           "team": "Anxiety",
-          "resultado": null
+          "resultado": 0
         }
       ],
       [
@@ -934,11 +934,11 @@
       [
         {
           "team": "Anxiety",
-          "resultado": null
+          "resultado": 0
         },
         {
           "team": "Papu y Los Papulines",
-          "resultado": null
+          "resultado": 2
         }
       ],
       [
@@ -996,11 +996,11 @@
       [
         {
           "team": "Branca Team",
-          "resultado": null
+          "resultado": 2
         },
         {
           "team": "Anxiety",
-          "resultado": null
+          "resultado": 0
         }
       ],
       [
