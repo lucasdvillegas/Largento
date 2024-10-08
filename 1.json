@@ -493,19 +493,19 @@
         "team": "Gatitos Techeros Gaming",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/gatitos_techeros_gaming.png",
         "games": 4,
-        "w": 3,
+        "w": 4,
         "l": null,
-        "d": 1,
-        "puntos": 7
+        "d": null,
+        "puntos": 8
       },
       {
         "team": "Hydra E-sport",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/hydra_esport.png",
         "games": 5,
-        "w": 2,
-        "l": 1,
-        "d": 2,
-        "puntos": 6
+        "w": 1,
+        "l": 3,
+        "d": 1,
+        "puntos": 3
       },
       {
         "team": "NoLegion",
@@ -538,10 +538,10 @@
         "team": "Neennyz3000",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/neennyz3000.png",
         "games": 3,
-        "w": 1,
-        "l": 2,
+        "w": 2,
+        "l": 1,
         "d": null,
-        "puntos": 2
+        "puntos": 4
       },
       {
         "team": "Papu y Los Papulines",
@@ -758,11 +758,11 @@
       [
         {
           "team": "Hydra E-Sport",
-          "resultado": 1
+          "resultado": 0
         },
         {
           "team": "Gatitos Techeros Gaming",
-          "resultado": 1
+          "resultado": 2
         }
       ],
       [
@@ -830,11 +830,11 @@
       [
         {
           "team": "Nennyz3000",
-          "resultado": 0
+          "resultado": 2
         },
         {
           "team": "Hydra E-sport",
-          "resultado": 2
+          "resultado": 0
         }
       ],
       [
