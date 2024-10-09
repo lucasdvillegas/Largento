@@ -492,11 +492,11 @@
       {
         "team": "Gatitos Techeros Gaming",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/gatitos_techeros_gaming.png",
-        "games": 4,
-        "w": 4,
+        "games": 5,
+        "w": 5,
         "l": null,
         "d": null,
-        "puntos": 8
+        "puntos": 10
       },
       {
         "team": "Hydra E-sport",
@@ -510,9 +510,9 @@
       {
         "team": "NoLegion",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/no_legion.png",
-        "games": 4,
+        "games": 5,
         "w": 2,
-        "l": null,
+        "l": 1,
         "d": 2,
         "puntos": 6
       },
@@ -954,11 +954,11 @@
       [
         {
           "team": "NoLegion",
-          "resultado": null
+          "resultado": 0
         },
         {
           "team": "Gatitos Techeros Gaming",
-          "resultado": null
+          "resultado": 2
         }
       ],
       [
