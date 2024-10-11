@@ -593,18 +593,18 @@
       {
         "team": "Take the Rapier",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/take_the_rapier.png",
-        "games": 3,
-        "w": 1,
+        "games": 4,
+        "w": 2,
         "l": null,
         "d": 2,
-        "puntos": 4
+        "puntos": 6
       },
       {
         "team": "Aldea Gaming",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/aldea_gaming.png",
-        "games": 4,
+        "games": 5,
         "w": 2,
-        "l": 1,
+        "l": 2,
         "d": 1,
         "puntos": 5
       },
@@ -964,11 +964,11 @@
       [
         {
           "team": "Aldea Gaming",
-          "resultado": null
+          "resultado": 0
         },
         {
           "team": "Take the Rapier",
-          "resultado": null
+          "resultado": 2
         }
       ],
       [
