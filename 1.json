@@ -558,19 +558,19 @@
         "team": "Epicenter",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/epicenter.png",
         "games": 4,
-        "w": 2,
+        "w": 3,
         "l": null,
-        "d": 2,
-        "puntos": 6
+        "d": 1,
+        "puntos": 7
       },
       {
         "team": "Los Atiende Boludos",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/los_atiende_boludos.png",
         "games": 4,
-        "w": 1,
-        "l": 1,
+        "w": 2,
+        "l": 0,
         "d": 2,
-        "puntos": 4
+        "puntos": 6
       },
       {
         "team": "Cinder Wolves",
@@ -603,19 +603,19 @@
         "team": "Aldea Gaming",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/aldea_gaming.png",
         "games": 5,
-        "w": 2,
-        "l": 2,
-        "d": 1,
-        "puntos": 5
+        "w": 0,
+        "l": 5,
+        "d": 0,
+        "puntos": 0
       },
       {
         "team": "The Mystery Machine",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/the_mystery_machine.png",
         "games": 4,
-        "w": null,
-        "l": 2,
+        "w": 1,
+        "l": 1,
         "d": 2,
-        "puntos": 2
+        "puntos": 4
       }
     ]
   ],
@@ -654,11 +654,11 @@
       [
         {
           "team": "Aldea Gaming",
-          "resultado": "1"
+          "resultado": "0"
         },
         {
           "team": "Epicenter",
-          "resultado": "1"
+          "resultado": "2"
         }
       ],
       [
@@ -840,11 +840,11 @@
       [
         {
           "team": "Aldea Gaming",
-          "resultado": 2
+          "resultado": 0
         },
         {
           "team": "Los Atiende Boludos",
-          "resultado": 0
+          "resultado": 2
         }
       ],
       [
@@ -922,11 +922,11 @@
       [
         {
           "team": "The Mystery Machine",
-          "resultado": 0
+          "resultado": 2
         },
         {
           "team": "Aldea Gaming",
-          "resultado": 2
+          "resultado": 0
         }
       ]
     ],
