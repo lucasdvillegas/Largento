@@ -557,11 +557,11 @@
       {
         "team": "Epicenter",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/epicenter.png",
-        "games": 4,
-        "w": 3,
+        "games": 5,
+        "w": 4,
         "l": null,
         "d": 1,
-        "puntos": 7
+        "puntos": 9
       },
       {
         "team": "Los Atiende Boludos",
@@ -593,9 +593,9 @@
       {
         "team": "Take the Rapier",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/take_the_rapier.png",
-        "games": 4,
+        "games": 5,
         "w": 2,
-        "l": null,
+        "l": 1,
         "d": 2,
         "puntos": 6
       },
@@ -902,11 +902,11 @@
       [
         {
           "team": "Epicenter",
-          "resultado": null
+          "resultado": 2
         },
         {
           "team": "Take the Rapier",
-          "resultado": null
+          "resultado": 0
         }
       ],
       [
