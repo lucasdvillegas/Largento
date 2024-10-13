@@ -584,9 +584,9 @@
       {
         "team": "The Rats",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/the_rats_logo.png",
-        "games": 4,
+        "games": 5,
         "w": 1,
-        "l": 2,
+        "l": 3,
         "d": 1,
         "puntos": 3
       },
@@ -611,11 +611,11 @@
       {
         "team": "The Mystery Machine",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/the_mystery_machine.png",
-        "games": 4,
-        "w": 1,
+        "games": 5,
+        "w": 2,
         "l": 1,
         "d": 2,
-        "puntos": 4
+        "puntos": 6
       }
     ]
   ],
@@ -984,11 +984,11 @@
       [
         {
           "team": "The Rats",
-          "resultado": null
+          "resultado": 0
         },
         {
           "team": "The Mystery Machine",
-          "resultado": null
+          "resultado": 2
         }
       ]
     ],
