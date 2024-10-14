@@ -1054,6 +1054,69 @@
         }
       ]
     ]
+  ],
+"elimination": [
+    [
+      { "team_name": "", "team_logo": "", "win": false },
+      { "team_name": "", "team_logo": "", "win": false }
+    ],
+    [
+      { "team_name": "", "team_logo": "", "win": false },
+      { "team_name": "", "team_logo": "", "win": false }
+    ]
+  ],
+  "lower_bracket": [
+    [
+      {
+        "team_logo": "",
+        "team_name": ""
+      },
+      { "team_logo": "", "team_name": "" },
+      { "team_logo": "", "team_name": "" },
+      { "team_logo": "", "team_name": "" }
+    ],
+    [
+      { "team_logo": "", "team_name": "" },
+      { "team_logo": "", "team_name": "" },
+      { "team_logo": "", "team_name": "" },
+      { "team_logo": "", "team_name": "" }
+    ],
+    [
+      { "team_logo": "", "team_name": "" },
+      { "team_logo": "", "team_name": "" }
+    ],
+    [
+      { "team_logo": "", "team_name": "" },
+      { "team_logo": "", "team_name": "" }
+    ],
+    [{ "team_logo": "", "team_name": "" }]
+  ],
+  "upper_bracket": [
+    [
+      { "team_logo": "", "team_name": "" },
+      { "team_logo": "", "team_name": "" },
+      { "team_logo": "", "team_name": "" },
+      { "team_logo": "", "team_name": "" },
+      { "team_logo": "", "team_name": "" },
+      { "team_logo": "", "team_name": "" },
+      { "team_logo": "", "team_name": "" },
+      { "team_logo": "", "team_name": "" }
+    ],
+    [
+      { "team_logo": "", "team_name": "" },
+      { "team_logo": "", "team_name": "" },
+      { "team_logo": "", "team_name": "" },
+      { "team_logo": "", "team_name": "" }
+    ],
+    [
+      { "team_logo": "", "team_name": "" },
+      { "team_logo": "", "team_name": "" }
+    ],
+    [{ "team_logo": "", "team_name": "" }]
+  ],
+  "final_bracket": [
+    { "team_name": "", "team_logo": "", "win": false },
+    { "team_name": "", "team_logo": "", "win": true }
   ]
 }
 
