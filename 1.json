@@ -492,11 +492,11 @@
       {
         "team": "Gatitos Techeros Gaming",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/gatitos_techeros_gaming.png",
-        "games": 5,
-        "w": 5,
+        "games": 6,
+        "w": 6,
         "l": null,
         "d": null,
-        "puntos": 10
+        "puntos": 12
       },
       {
         "team": "Hydra E-sport",
@@ -528,9 +528,9 @@
       {
         "team": "BRANCA TEAM",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/branca_team.png",
-        "games": 5,
+        "games": 6,
         "w": 3,
-        "l": 1,
+        "l": 2,
         "d": 1,
         "puntos": 7
       },
@@ -872,11 +872,11 @@
       [
         {
           "team": "Gatitos Techeros Gaming",
-          "resultado": null
+          "resultado": 2
         },
         {
           "team": "Branca Team",
-          "resultado": null
+          "resultado": 0
         }
       ],
       [
