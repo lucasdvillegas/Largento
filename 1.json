@@ -1068,12 +1068,12 @@
   "lower_bracket": [
     [
       {
-        "team_logo": "",
-        "team_name": ""
+        "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/no_legion.png",
+        "team_name": "asdasd"
       },
-      { "team_logo": "", "team_name": "" },
-      { "team_logo": "", "team_name": "" },
-      { "team_logo": "", "team_name": "" }
+      { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/no_legion.png", "team_name": "uytutyu" },
+      { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/no_legion.png", "team_name": "khjkhk" },
+      { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/no_legion.png", "team_name": "piop" }
     ],
     [
       { "team_logo": "", "team_name": "" },
@@ -1093,10 +1093,10 @@
   ],
   "upper_bracket": [
     [
-      { "team_logo": "", "team_name": "" },
-      { "team_logo": "", "team_name": "" },
-      { "team_logo": "", "team_name": "" },
-      { "team_logo": "", "team_name": "" },
+      { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/no_legion.png", "team_name": "ghfhfh" },
+      { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/no_legion.png", "team_name": "bvnvnbvn" },
+      { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/no_legion.png", "team_name": "ityutyut" },
+      { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/no_legion.png", "team_name": "ghjjfgh" },
       { "team_logo": "", "team_name": "" },
       { "team_logo": "", "team_name": "" },
       { "team_logo": "", "team_name": "" },
@@ -1115,8 +1115,8 @@
     [{ "team_logo": "", "team_name": "" }]
   ],
   "final_bracket": [
-    { "team_name": "", "team_logo": "", "win": false },
-    { "team_name": "", "team_logo": "", "win": true }
+    { "team_name": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/no_legion.png", "team_logo": "paryz", "win": true },
+    { "team_name": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/no_legion.png", "team_logo": "messi", "win": false }
   ]
 }
 
