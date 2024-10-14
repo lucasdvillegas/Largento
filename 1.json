@@ -1063,6 +1063,14 @@
     [
       { "team_name": "", "team_logo": "", "win": false },
       { "team_name": "", "team_logo": "", "win": false }
+    ],
+    [
+      { "team_name": "", "team_logo": "", "win": false },
+      { "team_name": "", "team_logo": "", "win": false }
+    ],
+    [
+      { "team_name": "", "team_logo": "", "win": false },
+      { "team_name": "", "team_logo": "", "win": false }
     ]
   ],
   "lower_bracket": [
