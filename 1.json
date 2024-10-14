@@ -1057,20 +1057,20 @@
   ],
  "elimination": [
     [
-      { "team_name": "", "team_logo": "", "win": false },
-      { "team_name": "", "team_logo": "", "win": false }
+      { "team_name": "3RO GRUPO A", "team_logo": "", "win": false },
+      { "team_name": "5TO/6TO GRUPO B", "team_logo": "", "win": false }
     ],
     [
-      { "team_name": "", "team_logo": "", "win": false },
-      { "team_name": "", "team_logo": "", "win": false }
+      { "team_name": "3RO GRUPO B", "team_logo": "", "win": false },
+      { "team_name": "5TO/6TO GRUPO A", "team_logo": "", "win": false }
     ],
     [
-      { "team_name": "", "team_logo": "", "win": false },
-      { "team_name": "", "team_logo": "", "win": false }
+      { "team_name": "4TO GRUPO A", "team_logo": "", "win": false },
+      { "team_name": "5TO/6TO GRUPO B", "team_logo": "", "win": false }
     ],
     [
-      { "team_name": "", "team_logo": "", "win": false },
-      { "team_name": "", "team_logo": "", "win": false }
+      { "team_name": "4TO GRUPO B", "team_logo": "", "win": false },
+      { "team_name": "5TO/6TO GRUPO A", "team_logo": "", "win": false }
     ]
   ],
   "lower_bracket": [
@@ -1102,13 +1102,13 @@
   "upper_bracket": [
     [
       { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/gatitos_techeros_gaming.png", "team_name": "Gatitos Techeros Gaming" },
-      { "team_logo": "", "team_name": "" },
-      { "team_logo": "", "team_name": "" },
-      { "team_logo": "", "team_name": "" },
+      { "team_logo": "", "team_name": "LLAVE 3" },
+      { "team_logo": "", "team_name": "2DO GRUPO B" },
+      { "team_logo": "", "team_name": "LLAVE 1" },
       { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/epicenter.png", "team_name": "EPIICENTER" },
-      { "team_logo": "", "team_name": "" },
-      { "team_logo": "", "team_name": "" },
-      { "team_logo": "", "team_name": "" }
+      { "team_logo": "", "team_name": "LLAVE 4" },
+      { "team_logo": "", "team_name": "2DO GRUPO A" },
+      { "team_logo": "", "team_name": "LLAVE 2" }
     ],
     [
       { "team_logo": "", "team_name": "" },
