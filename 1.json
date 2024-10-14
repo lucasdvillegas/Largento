@@ -1057,8 +1057,8 @@
   ],
 "elimination": [
     [
-      { "team_name": "", "team_logo": "", "win": false },
-      { "team_name": "", "team_logo": "", "win": false }
+      { "team_name": "asadasd", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/no_legion.png", "win": true },
+      { "team_name": "xczc", "team_logo": "", "win": false }
     ],
     [
       { "team_name": "", "team_logo": "", "win": false },
