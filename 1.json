@@ -528,20 +528,20 @@
       {
         "team": "BRANCA TEAM",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/branca_team.png",
-        "games": 4,
+        "games": 5,
         "w": 3,
-        "l": null,
+        "l": 1,
         "d": 1,
         "puntos": 7
       },
       {
         "team": "Neennyz3000",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/neennyz3000.png",
-        "games": 4,
-        "w": 3,
+        "games": 5,
+        "w": 4,
         "l": 1,
         "d": null,
-        "puntos": 6
+        "puntos": 8
       },
       {
         "team": "Papu y Los Papulines",
@@ -557,11 +557,11 @@
       {
         "team": "Epicenter",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/epicenter.png",
-        "games": 5,
-        "w": 4,
+        "games": 6,
+        "w": 5,
         "l": null,
         "d": 1,
-        "puntos": 9
+        "puntos": 11
       },
       {
         "team": "Los Atiende Boludos",
@@ -575,9 +575,9 @@
       {
         "team": "Cinder Wolves",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/cinder_wolves.png",
-        "games": 4,
+        "games": 5,
         "w": null,
-        "l": 2,
+        "l": 3,
         "d": 2,
         "puntos": 2
       },
@@ -944,11 +944,11 @@
       [
         {
           "team": "Nennyz3000",
-          "resultado": null
+          "resultado": 2
         },
         {
           "team": "Branca Team",
-          "resultado": null
+          "resultado": 0
         }
       ],
       [
@@ -974,11 +974,11 @@
       [
         {
           "team": "Cinder Wolves",
-          "resultado": null
+          "resultado": 0
         },
         {
           "team": "Epicenter",
-          "resultado": null
+          "resultado": 2
         }
       ],
       [
