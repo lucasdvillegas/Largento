@@ -497,11 +497,11 @@
       {
         "team": "Hydra E-sport",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/hydra_esport.png",
-        "games": 5,
-        "w": 1,
+        "games": 6,
+        "w": 2,
         "l": 3,
         "d": 1,
-        "puntos": 3
+        "puntos": 5
       },
       {
         "team": "NoLegion",
@@ -542,9 +542,9 @@
       {
         "team": "Papu y Los Papulines",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/papu_y_los_papulines.png",
-        "games": 5,
+        "games": 6,
         "w": 1,
-        "l": 4,
+        "l": 5,
         "d": null,
         "puntos": 2
       }
