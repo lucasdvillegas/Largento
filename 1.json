@@ -502,9 +502,9 @@
       {
         "team": "NoLegion",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/no_legion.png",
-        "games": 5,
+        "games": 6,
         "w": 2,
-        "l": 1,
+        "l": 2,
         "d": 2,
         "puntos": 6
       },
@@ -529,11 +529,11 @@
       {
         "team": "Neennyz3000",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/neennyz3000.png",
-        "games": 5,
-        "w": 4,
+        "games": 6,
+        "w": 5,
         "l": 1,
         "d": null,
-        "puntos": 8
+        "puntos": 10
       },
       {
         "team": "Papu y Los Papulines",
@@ -998,11 +998,11 @@
       [
         {
           "team": "Nennyz3000",
-          "resultado": null
+          "resultado": 2
         },
         {
           "team": "NoLegion",
-          "resultado": null
+          "resultado": 0
         }
       ],
       [
