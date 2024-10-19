@@ -576,18 +576,18 @@
       {
         "team": "The Rats",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/the_rats_logo.png",
-        "games": 5,
-        "w": 1,
+        "games": 6,
+        "w": 2,
         "l": 3,
         "d": 1,
-        "puntos": 3
+        "puntos": 5
       },
       {
         "team": "Take the Rapier",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/take_the_rapier.png",
-        "games": 5,
+        "games": 6,
         "w": 2,
-        "l": 1,
+        "l": 2,
         "d": 2,
         "puntos": 6
       },
@@ -1028,11 +1028,11 @@
       [
         {
           "team": "Take the Rapier",
-          "resultado": null
+          "resultado": 0
         },
         {
           "team": "The Rats",
-          "resultado": null
+          "resultado": 2
         }
       ],
       [
