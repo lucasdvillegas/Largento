@@ -1058,7 +1058,7 @@
     ],
     [
       { "team_name": "NoLegion", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/no_legion.png", "win": false },
-      { "team_name": "Cinder Wolves", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/cinder_wolves.png", "win": false }
+      { "team_name": "Cinder Wolves", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/cinder_wolves.png", "win": true }
     ],
     [
       { "team_name": "Take the Rapier", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/take_the_rapier.png", "win": false },
@@ -1094,7 +1094,7 @@
   "upper_bracket": [
     [
       { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/gatitos_techeros_gaming.png", "team_name": "Gatitos Techeros Gaming" },
-      { "team_logo": "", "team_name": "LLAVE 3" },
+      { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/cinder_wolves.png", "team_name": "Cinder Wolves" },
       { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/los_atiende_boludos.png", "team_name": "Los Atiende Boludos" },
       { "team_logo": "", "team_name": "LLAVE 1" },
       { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/epicenter.png", "team_name": "EPIICENTER" },
