@@ -53,8 +53,12 @@
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
         },
         {
-          "name": "Jugo Boss",
+          "name": "Ovoide",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+        },
+        {
+          "name": "Kachador",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
         },
         {
           "name": "ULTIMATE FIAT",
@@ -91,14 +95,6 @@
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         },
         {
-          "name": "ovo1de",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
-        },
-        {
-          "name": "GNOZPIN",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
-        },
-        {
           "name": "hito",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
@@ -119,6 +115,10 @@
         {
           "name": "Fr4nkgab",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "GNOZPIN",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         },
         {
           "name": "El Alessi™",
@@ -325,6 +325,10 @@
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         },
         {
+          "name": "boogye",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/legend_medal.png"
+        },
+        {
           "name": "LighTTinch",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         },
@@ -367,7 +371,7 @@
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         },
         {
-          "name": "worlock",
+          "name": "Caprirk",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
@@ -401,8 +405,8 @@
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/cruzader_medal.png"
         },
         {
-          "name": "Fr0stblue",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/herald_medal.png"
+          "name": "Marcuz",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
           "name": "p3ricles",
