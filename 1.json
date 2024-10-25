@@ -1062,7 +1062,7 @@
     ],
     [
       { "team_name": "Take the Rapier", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/take_the_rapier.png", "win": false },
-      { "team_name": "Hydra E-sport", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/hydra_esport.png", "win": false }
+      { "team_name": "Hydra E-sport", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/hydra_esport.png", "win": true }
     ]
   ],
   "lower_bracket": [
@@ -1098,7 +1098,7 @@
       { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/los_atiende_boludos.png", "team_name": "Los Atiende Boludos" },
       { "team_logo": "", "team_name": "LLAVE 1" },
       { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/epicenter.png", "team_name": "EPIICENTER" },
-      { "team_logo": "", "team_name": "LLAVE 4" },
+      { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/hydra_esport.png", "team_name": "Hydra E-sport" },
       { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/neennyz3000.png", "team_name": "Neennyz3000" },
       { "team_logo": "", "team_name": "LLAVE 2" }
     ],
