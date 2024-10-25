@@ -41,20 +41,12 @@
       "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/take_the_rapier.png",
       "team_players": [
         {
-          "name": "El Cinico",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
-        },
-        {
           "name": "Tuka",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
           "name": "S4TVRN0",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
-        },
-        {
-          "name": "Ovoide",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         },
         {
           "name": "Kachador",
@@ -243,6 +235,14 @@
         {
           "name": "Megga",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "El Cinico",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+        },
+        {
+          "name": "Ovoide",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         },
         {
           "name": "@ M r P i e g g",
