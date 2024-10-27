@@ -1060,8 +1060,8 @@
   "lower_bracket": [
     [
       {
-        "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/the_mystery_machine.png",
-        "team_name": "The Mystery Machine"
+        "team_logo": "",
+        "team_name": ""
       },
       { "team_logo": "", "team_name": "" },
       { "team_logo": "", "team_name": "" },
