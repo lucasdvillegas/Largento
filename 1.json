@@ -1041,7 +1041,7 @@
       { "team_name": "The Rats", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/the_rats_logo.png", "win": true }
     ],
     [
-      { "team_name": "The Mystery Machine", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/the_mystery_machine.png", "win": false },
+      { "team_name": "The Mystery Machine", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/the_mystery_machine.png", "win": true },
       { "team_name": "Papu y los Papulines", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/papu_y_los_papulines.png", "win": false }
     ],
     [
@@ -1088,7 +1088,7 @@
       { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/epicenter.png", "team_name": "EPIICENTER" },
       { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/hydra_esport.png", "team_name": "Hydra E-sport" },
       { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/neennyz3000.png", "team_name": "Neennyz3000" },
-      { "team_logo": "", "team_name": "LLAVE 2" }
+      { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/the_mystery_machine.png", "team_name": "The Mystery Machine" }
     ],
     [
       { "team_logo": "", "team_name": "" },
