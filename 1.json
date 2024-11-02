@@ -1065,7 +1065,7 @@
       },
       { "team_logo": "", "team_name": "Loss llave 2" },
       { "team_logo": "", "team_name": "Loss llave 3" },
-      { "team_logo": "", "team_name": "Loss llave 4" }
+      { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/the_mystery_machine.png", "team_name": "The Mystery Machine" }
     ],
     [
       { "team_logo": "", "team_name": "Loss llave 5" },
@@ -1098,7 +1098,7 @@
       { "team_logo": "", "team_name": "Win llave 1" },
       { "team_logo": "", "team_name": "Win llave 2" },
       { "team_logo": "", "team_name": "Win llave 3" },
-      { "team_logo": "", "team_name": "Win llave 4" }
+      { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/neennyz3000.png", "team_name": "Neennyz3000" }
     ],
     [
       { "team_logo": "", "team_name": "Win llave 5" },
