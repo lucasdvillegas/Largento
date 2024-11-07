@@ -1070,7 +1070,7 @@
     [
       { "team_logo": "", "team_name": "Loss llave 5" },
       { "team_logo": "", "team_name": "Win llave a" },
-      { "team_logo": "", "team_name": "loss llave 6" },
+      { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/hydra_esport.png", "team_name": "Hydra E-sport" },
       { "team_logo": "", "team_name": "win llave b" }
     ],
     [
@@ -1102,7 +1102,7 @@
     ],
     [
       { "team_logo": "", "team_name": "Win llave 5" },
-      { "team_logo": "", "team_name": "Win llave 6" }
+      { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/neennyz3000.png", "team_name": "Neennyz3000" }
     ],
     [{ "team_logo": "", "team_name": "Win llave 7" }]
   ],
