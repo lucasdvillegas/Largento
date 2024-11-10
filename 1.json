@@ -232,7 +232,7 @@
       "team_name": "The Mystery Machine",
       "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/the_mystery_machine.png",
       "team_players": [
-        {
+       {
           "name": "Megga",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
@@ -309,10 +309,6 @@
       "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/branca_team.png",
       "team_players": [
         {
-          "name": "El Perrito Malvado",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
-        },
-        {
           "name": "boogye",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/legend_medal.png"
         },
@@ -343,11 +339,11 @@
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         },
         {
-          "name": "alexis",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+          "name": "El Perrito Malvado",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         },
         {
-          "name": "tsp",
+          "name": "alexis",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
         },
         {
@@ -1069,9 +1065,9 @@
     ],
     [
       { "team_logo": "", "team_name": "Loss llave 5" },
-      { "team_logo": "", "team_name": "Win llave a" },
+      { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/the_rats_logo.png", "team_name": "The Rats" },
       { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/hydra_esport.png", "team_name": "Hydra E-sport" },
-      { "team_logo": "", "team_name": "win llave b" }
+      { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/epicenter.png", "team_name": "The Mystery Machine" }
     ],
     [
       { "team_logo": "", "team_name": "Win llave c" },
