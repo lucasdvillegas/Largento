@@ -1070,8 +1070,8 @@
       { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/epicenter.png", "team_name": "Epiicenter" }
     ],
     [
-      { "team_logo": "", "team_name": "Loss llave 7" },
-      { "team_logo": "", "team_name": "Win llave e" }
+      { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/neennyz3000.png", "team_name": "Neennyz3000" },
+      { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/epicenter.png", "team_name": "Epiicenter" }
     ],
     [{ "team_logo": "", "team_name": "Win llave f" }]
   ],
