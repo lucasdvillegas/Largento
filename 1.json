@@ -1073,7 +1073,7 @@
       { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/neennyz3000.png", "team_name": "Neennyz3000" },
       { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/epicenter.png", "team_name": "Epiicenter" }
     ],
-    [{ "team_logo": "", "team_name": "Win llave f" }]
+    [{ "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/epicenter.png", "team_name": "Epiicenter" }]
   ],
   "upper_bracket": [
     [
@@ -1100,7 +1100,7 @@
   ],
   "final_bracket": [
     { "team_name": "Gatitos Techeros Gaming", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/gatitos_techeros_gaming.png", "win": false },
-    { "team_name": "", "team_logo": "", "win": true }
+    { "team_name": "Epiicenter", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/epicenter.png", "win": true }
   ]
 }
 
