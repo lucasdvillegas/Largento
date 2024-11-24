@@ -529,6 +529,72 @@
         "puntos": 2
       }
     ],
+    "tables": [
+    [
+      {
+        "team": "Gatitos Techeros Gaming",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/gatitos_techeros_gaming.png",
+        "games": 6,
+        "w": 6,
+        "l": null,
+        "d": null,
+        "puntos": 12
+      },
+      {
+        "team": "Hydra E-sport",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/hydra_esport.png",
+        "games": 6,
+        "w": 2,
+        "l": 3,
+        "d": 1,
+        "puntos": 5
+      },
+      {
+        "team": "NoLegion",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/no_legion.png",
+        "games": 6,
+        "w": 2,
+        "l": 2,
+        "d": 2,
+        "puntos": 6
+      },
+      {
+        "team": "Anxiety",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/anxiety.png",
+        "games": 6,
+        "w": null,
+        "l": 6,
+        "d": null,
+        "puntos": 0
+      },
+      {
+        "team": "BRANCA TEAM",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/branca_team.png",
+        "games": 6,
+        "w": 3,
+        "l": 2,
+        "d": 1,
+        "puntos": 7
+      },
+      {
+        "team": "Neennyz3000",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/neennyz3000.png",
+        "games": 6,
+        "w": 5,
+        "l": 1,
+        "d": null,
+        "puntos": 10
+      },
+      {
+        "team": "Papu y Los Papulines",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/papu_y_los_papulines.png",
+        "games": 6,
+        "w": 1,
+        "l": 5,
+        "d": null,
+        "puntos": 2
+      }
+    ],
     [
       {
         "team": "Epicenter",
