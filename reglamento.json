@@ -1,10 +1,9 @@
 {
   "Reglamento": [
-    "General": "1 Todas las partidas serán jugadas bajo la modalidad CM (Captains Mode), en caso de existir RMK (remake) por diversas fallas técnicas, el juego se reinicia en AP (All Pick) bajo los mismos picks del modo anterior";
-    "2 Existirán tres pausas por equipo durante cada partida, cada pausa tendrá un tiempo límite de cinco (5) minutos máximo. De no utilizar la totalidad del tiempo de pausa, igual se considerará como pausa realizada. (Cada vez que se realiza una pausa se tienen que dar los motivos de la misma)"
-    ,
-    Está prohibido realizar pausas en plena team fight,
-    Las pausas estratégicas están totalmente prohibidas";
-    "3 Las facciones (Radiant o Dire) de cada base serán sorteadas antes de iniciar los juegos. Una base ingresante no puede tener la misma facción en 2 juegos consecutivos".
+    "General": "1 Todas las partidas serán jugadas bajo la modalidad CM (Captains Mode), en caso de existir RMK (remake) por diversas fallas técnicas, el juego se reinicia en AP (All Pick) bajo los mismos picks del modo anterior",
+    "2 Existirán tres pausas por equipo durante cada partida, cada pausa tendrá un tiempo límite de cinco (5) minutos máximo. De no utilizar la totalidad del tiempo de pausa, igual se considerará como pausa realizada. (Cada vez que se realiza una pausa se tienen que dar los motivos de la misma)
+    Está prohibido realizar pausas en plena team fight
+    Las pausas estratégicas están totalmente prohibidas",
+    "3 Las facciones (Radiant o Dire) de cada base serán sorteadas antes de iniciar los juegos. Una base ingresante no puede tener la misma facción en 2 juegos consecutivos",
   ]
 }
