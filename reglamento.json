@@ -1,5 +1,6 @@
 {
   "edition": "Tercera edición",
   "visible": false,
-  "Reglamento": "Acá se va escribir el reglamento separado por titulos sin segregar en incisos"
+  "Reglas": 
+  [ General: Todas las partidas serán jugadas bajo la modalidad CM (Captains Mode), en caso de existir RMK (remake) por diversas fallas técnicas, el juego se reinicia en AP (All Pick) bajo los mismos picks del modo anterior
 }
