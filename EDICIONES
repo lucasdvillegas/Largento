@@ -1,0 +1,18 @@
+{
+[
+  "edition": "Primera edición",
+  "visible": true,
+],
+[
+  "edition": "Segunda edición",
+  "visible": true,
+],
+[
+  "edition": "Tercera edición",
+  "visible": false,
+],
+[
+  "edition": "Cuarta edición",
+  "visible": false,
+],
+}
