@@ -9,5 +9,17 @@
       {
     "Regla 3": "Las facciones (Radiant o Dire) de cada base serán sorteadas antes de iniciar los juegos. Una base ingresante no puede tener la misma facción en 2 juegos consecutivos"
       }
-  ]
+  ],
+  [
+  "Sanciones":
+  {
+    "Regla 1": "SI ALGÚN EQUIPO SACA UNA PAUSA SIN CONSULTAR AL EQUIPO RIVAL SE VA A PROCEDER A SANCIONAR AL MISMO. Se aplicará una sanción de quita de 30 segundos en el siguiente tiempo de drafteo (siguiente partida)"
+  },
+  {
+  "Regla 2": "Si algún equipo tira (gg) y es cancelado será penalizado con una sanción de quita de segundos en la siguiente partida. (30 seg) si se repite (70 seg) y si lo hacen por tercera vez pierden el derecho a la moneda"
+  },
+{
+  "Regla 3": "No se tolerará ningún tipo de insulto y/o difamación contra el staff de la liga, ni con la liga misma. Si algún jugador viola esta regla, el mismo es pasible de ser expulsado de la liga, o suspendido por un período de tiempo (lo cual lo determinará el staff). Las fechas que no jugará por estar suspendido, se darán como perdidas. Aclaración: una vez terminada la fase de grupos, se limpiarán las sanciones de todos los equipos (con excepción de las expulsiones)"
+}
+]
 }
