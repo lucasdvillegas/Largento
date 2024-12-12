@@ -1,18 +1,30 @@
 {
-  "Preguntas": [
-    {
-   "Pregunta 1": "¿Si no soy Argentino, puedo juegar igual la liga?"
-    },
-    {
-   "Respuesta 1": "Si claro si no sos Argentino pueden participar igual adaptamos el precio de la inscripción a USD"
-    }
-  ],
   [
     {
-  "Pregunta 2": "¿Hasta cuando tengo tiempo para inscribir?"
+      label: '¿Si no soy argentino puedo inscribir mi equipo igual?',
+      icon: 'i-heroicons-information-circle',
+      defaultOpen: true,
+      content: 'Si claro si no sos Argentino pueden participar igual adaptamos el precio de la inscripción a USD.'
     },
     {
-  "Respuesta 2": "Hay tiempo hasta el sabado 14/12"
+      label: '¿Hasta cuando tengo tiempo para anotar mi equipo?',
+      icon: 'i-heroicons-arrow-down-tray',
+      content: 'Tienen tiempo para inscribir equipos hasta el día 20/09.'
+    },
+    {
+      label: '¿Cuánto va a durar la liga?',
+      icon: 'i-heroicons-eye-dropper',
+      content: 'La liga va a durar aproximadamente 45 días dependiendo el formato y la cantidad de equipos.'
+    },
+    {
+      label: '¿Las fechas de los partidos ya vienen predeterminadas?',
+      icon: 'i-heroicons-rectangle-group',
+      content: 'No, las fechas de los partidos las acuerdan los capitanes que se enfrenten, en un lapso de tiempo que de el reglamento.'
+    },
+    {
+      label: '¿Cómo me comunico con el staff?',
+      icon: 'i-heroicons-rectangle-group',
+      content: 'Mediante el discord a personas que tengan roles de staff o redes de la liga.'
     }
   ]
 }
